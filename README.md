@@ -11,4 +11,4 @@
 - Add Listener to RNShake
 - Lifecicly ReactJS
 
-[DONWLOAD APK](http://https://drive.google.com/drive/u/0/my-drive/)
+[DONWLOAD APK](http://drive.google.com/drive/u/0/my-drive/)
