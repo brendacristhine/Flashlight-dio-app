@@ -12,6 +12,7 @@
 - Lifecicly ReactJS
 
 
-#### Código do projeto em App.js
-#### Imagens em assets/icons
+##### Código do projeto em App.js
+##### Imagens em assets/icons
+
 [DONWLOAD APK](https://drive.google.com/file/d/1CwWzrsJ3CAiQDGZU7JZfavwUSEU25krx/view?usp=sharing/)
